@@ -13,14 +13,7 @@
   <label>Program Studi:</label><br>
   <select name="prodi">
     <option value="1">Teknik Informatika</option>
-    <option value="2">Sistem Informasi</option>
   </select><br>
-
-  <label>Dosen Wali:</label><br>
-  <select name="dosen">
-    <option value="1">Dr. Andi</option>
-    <option value="2">Dr. Sari</option>
-  </select><br><br>
 
   <input type="submit" value="Simpan">
 </form>
